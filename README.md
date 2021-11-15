@@ -4,7 +4,7 @@ Comment réaliser une page HTML valide ?
 
 ## Étape 2 : Cliquer sur New File ...
 
-## Étape 3 : Cliquer sur Select a Language
+## Étape 3 : Cliquer sur Select a Language et choisir HTML.
 
 ## Étape 4 : Inscrire la balise <!DOCTYPE html>.
 Cela indique à quel genre de document il appartient, soit, dans ce cas-ci, un document HTML5.
