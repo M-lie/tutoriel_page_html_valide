@@ -7,7 +7,7 @@ Comment réaliser une page HTML valide ?
 
 ## Étape 2 : Cliquer sur *New File ...*
 
-![tuto_etp_2](https://user-images.githubusercontent.com/93718179/141884123-c12f59ac-4749-4afe-9d87-e987f0a8f505.jpg)
+![tuto_etp_2](https://user-images.githubusercontent.com/93718179/141885332-7bb12b1c-fe88-4f21-8b72-cd954c4f9155.jpg)
 
 ## Étape 3 : Cliquer sur *Select a Language* et choisir *HTML*.
 
