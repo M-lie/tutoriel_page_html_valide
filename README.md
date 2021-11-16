@@ -1,5 +1,7 @@
 # tutoriel_page_html_valide
-Comment réaliser une page HTML valide ?
+## Comment réaliser une page HTML valide ?
+
+https://user-images.githubusercontent.com/93718179/141885561-0076b89b-20c1-4c3d-9266-e904fb6b6211.mp4
 
 ## Étape 1 : Ouvrir le logiciel *Visual Studio Code*.
 
